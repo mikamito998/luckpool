@@ -2,7 +2,7 @@
 This github page is used for Issue tracking of LuckPool and other pool related things.
 
 
-## Hellminer 0.52 Veruhash 2.2 CPU Only Miner (AVX/AVX2) [No DevFee]
+## Hellminer 0.54 VerusCoin CPU Miner (AVX)
 
 **Windows AVX2:** *Note, **CPU must support AVX2** or you will get 0.0MH/s*  
   https://github.com/hellcatz/luckpool/raw/master/miners/hellminer_cpu_win64_avx2.zip  
@@ -10,14 +10,11 @@ This github page is used for Issue tracking of LuckPool and other pool related t
 **Windows AVX:** *Note, this version works on **Xeon Processors without AVX2***  
   https://github.com/hellcatz/luckpool/raw/master/miners/hellminer_cpu_win64_avx.zip  
 
-**Linux:** *Note, this has been tested on Fedora 31, Ubuntu 16, Ubuntu 18, HiveOS  
+**Linux:** *Note, built on Ubuntu 20.04
   https://github.com/hellcatz/luckpool/raw/master/miners/hellminer_cpu_linux.tar.gz
 
 
-### Known Hashrates: [V2.2 ALGO]
-  * Expected to be very similar to V2.1 algo, pending miner submissions ...  
-
-### Known Hashrates: [V2.1 ALGO]
+### Known Hashrates:
   Intel i9-7900X (18 threads): 20.00MH/s  
   Intel i7-8700K (10 threads): 12.50MH/s  
   Intel i7-6700K (6 threads): 6.50MH/s  
