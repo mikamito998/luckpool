@@ -10,8 +10,11 @@ This github page is used for Issue tracking of LuckPool and other pool related t
 **Windows AVX:** *Note, this version works on **Xeon Processors without AVX2***  
   https://github.com/hellcatz/luckpool/raw/master/miners/hellminer_cpu_win64_avx.zip  
 
-**Linux:** *Note, built on Ubuntu 20.04  
-  https://github.com/hellcatz/luckpool/raw/master/miners/hellminer_cpu_linux.tar.gz
+**Linux:**    
+  Ubuntu 20.04    
+  https://github.com/hellcatz/luckpool/raw/master/miners/hellminer_cpu_linux.tar.gz    
+  Ubuntu 18.04    
+  https://github.com/hellcatz/luckpool/blob/master/miners/hellminer_cpu_ubuntu_18.tar.gz    
 
 
 ### Known Hashrates:
